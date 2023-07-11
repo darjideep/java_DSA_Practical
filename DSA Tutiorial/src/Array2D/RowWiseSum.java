@@ -27,7 +27,7 @@ public class RowWiseSum {
         int r = ary.length;
         int c = ary[0].length;
 
-        System.out.println("Display Array");
+        System.out.println("Display Array Success");
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {
                 System.out.print(ary[i][j] + "  ");
