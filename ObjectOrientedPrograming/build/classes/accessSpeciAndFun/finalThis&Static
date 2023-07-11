@@ -1,0 +1,50 @@
+Keywords.
+
+1) final
+    a final is a one type of keyword.it is declared once time 
+not multiple time.
+
+example--> 
+
+private final rollNumber;
+Assign value in next Example.
+
+
+2) this
+    a this Keyword is used to Assign a Local variable value.
+    because sometime Function have get input variable and Local
+    Variable both of name are same so this. assign so class
+    identify this is local class member;
+
+Example-->  
+
+String name;
+int rollNumber;
+
+public student(String name,int rollNumber)
+            {
+                this.name=name;
+                this.rollNumber=rollNumber;
+            }
+
+3) static 
+
+whenever Class want to assign a one variable and this 
+variable value are referce to all function so its call 
+the a static.
+
+Example-->
+    When you are want to one data shere with everybody 
+so its call the a static data.
+
+static int numStudents ; 
+
+Some time Static DataType only perform in Our Class so 
+with private Function throw define.
+
+Ex--> private static int numStudents;
+
+When Assign with private so not use in Main File to 
+    print so simple create a one get() Int Type Function
+    And return Value by function.
+ 

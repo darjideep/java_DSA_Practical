@@ -1,0 +1,40 @@
+Class is a blueprint of Object.
+Class is one type of Formula to create a object.
+one class use to create a multiple object is call the a multiple student.
+
+student
+
+==> create 1 Student class so in this class have some property like
+Student Name And Student RollNumber;
+
+So Assign
+
+String name;
+int rollNumber;
+
+==> Second one class create with Main method So in this main method 
+Create A Object of A student Class.
+like........===>As Scanner s=new Scanner(System.in);
+
+
+Syntax :
+
+    Class_Name Object_Name=new Class_Name;
+
+Ex-->  Student s1=new Student();
+
+After create a object Use class Property with object.
+
+ex--> s1.name=Deep;
+      s1.rollNumber=123;
+
+
+Note:
+
+if Class file And Main File Create A same Packet so Not necessary  to write a import Statement,
+it can fetch automatically class Property.
+
+But Some time user Want's to use Another Package Class Property so You must to Write Import 
+Statement on the top so Refer it And use it.
+
+

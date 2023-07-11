@@ -1,0 +1,20 @@
+Mainly 4 type of Access Specifier in Java.
+1.Default:-> When Declaration of DataType before not Assign a specifier
+ so by default choose Default.
+    A Default is Access limit are our Package.
+ 
+2.public:-> Public is EveryWhere Use Easy.
+
+3.Private:-> Private is only within a same class not Another 
+    Class use this property.
+
+4.Protected:-> Explained in inheritance Lecture.
+
+
+==> in this example set and get both function defined.
+
+-> set used to set value of the private property.
+-> get used to get value mean display set property.
+
+-> set value through set condition(if....if..else...etc) like 
+    only integer Number Enter.

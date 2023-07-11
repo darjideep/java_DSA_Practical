@@ -1,0 +1,30 @@
+so before i seen how to public private And friendly Access Modifire use.
+
+public--> It is Access EveryWHere.
+
+private--> its only access Within a class.
+
+Default (Friendly) --> Its a access within a Packege.
+
+But Another One Added.
+
+Protected--> its is Access Not A Class Or Packege Only But Also it Access EveryWhere.
+
+
+in normally name formate is like 
+Deep BharatBhai darji
+So First Assign a Chield name And Second one assign Parents name As In 
+Access Specifire Write First Chield then parent
+
+public class CarInherit extends vihical 
+
+-->  CarInheritence is Chield,SubClass,Derived
+
+-->  vihical is ParentClass,BaseClass,SuperClass
+
+-->Super keyword.
+When Some time Parent Function And Datatype use so Super Keyword to easyly Access it.
+
+---->    super.print();
+	
+	So Automatically Super keyword throw print() function use.
